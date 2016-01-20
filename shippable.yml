@@ -13,7 +13,8 @@ env:
     - MONGOLAB_URI=mongodb://localhost/test
     - CI_REPORTS=shippable/testresults/results.xml COVERAGE_REPORTS=shippable/codecoverage
     #herku api
-    - secure: kFFm3pzkPM8aJCV355kDQqPECfDBZ8GIBMCdt/PsHtQ4/+vY7OVocNOjVlqxCFZ+zplzpfj2fjQspde/Ac5Y8s0yD4NrMzGwLmBOGR7p8wTV7DLSA3eicTV3ReK/Wd0GYXBK8BEbGpIyFwgAuvlaZkUGn1jGcQaOS4OYfFYqXOzYONwcuBLVxo2wtr0cJAukfu2oyZkZYqpDAxCuJcDvkMARiMt//Zcrn2mCxRPcOUi5Bz9Bllzuae9fc6oQI/dI9G/uqSE6g0Ms8x2cJ1YUiWdPANg4kxoAwH6ZclpyTLG3jDAzyYC0taB/1ngWzUVIQDQJE4UJaIC9Ne38pvLJnw==
+    - secure: fum6SYChqtrBGwKMDhFN/Kz+vJbg7LBHuD3f/S5TexD7aeFiigLViY+Ztee25vSJroo0yHUNsEWi5ZMUESBgW/4hRZ4sqyw9/GLP0j/esFYEoH9JQku2SrQzuUN0eA1N/Vv7exnJzcdW5kCivJFYhbBoFUYk35/q57e9RIXNrNdbkN2O2J8D2MKhf2eXiI2dQvAdfuf3cwEDwLOOGH6xhPB70pplIvg87A4tcMCoq8moF1knRjpel/jVK9ICqKjWcJLQ5o0EOCkqezpE0atKjF0ViMe6djiTVDD857PTC9Kv1b0CvgEXL1N/2U2iQIYggcucsYngbS0f90fx5idIwQ==
+#    - secure: kFFm3pzkPM8aJCV355kDQqPECfDBZ8GIBMCdt/PsHtQ4/+vY7OVocNOjVlqxCFZ+zplzpfj2fjQspde/Ac5Y8s0yD4NrMzGwLmBOGR7p8wTV7DLSA3eicTV3ReK/Wd0GYXBK8BEbGpIyFwgAuvlaZkUGn1jGcQaOS4OYfFYqXOzYONwcuBLVxo2wtr0cJAukfu2oyZkZYqpDAxCuJcDvkMARiMt//Zcrn2mCxRPcOUi5Bz9Bllzuae9fc6oQI/dI9G/uqSE6g0Ms8x2cJ1YUiWdPANg4kxoAwH6ZclpyTLG3jDAzyYC0taB/1ngWzUVIQDQJE4UJaIC9Ne38pvLJnw==
    
  
 #build_image: shippable/minv2
